@@ -18,7 +18,7 @@
 ### - Learning :
 - ✨ WebApp Development
 - ✨ Mobile Development
-- ✨ Backend Engineer
+- ✨ Backend Development
 
 ### - Hobbies : 
 - ✨ Gaming Addict
