@@ -92,12 +92,14 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-
-
-<p align="center" >  
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=cihuyyama&&show_icons=true&theme=radical"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=cihuyyama&&show_icons=true&theme=radical"/>
   </a>
-  </p>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihuyyama" />
+</a>
+</p>
 
-*************
+
+
