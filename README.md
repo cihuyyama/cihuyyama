@@ -39,7 +39,6 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
 <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
